@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: PlayS3
+Version: 0.2
+Summary: Python library for working directly on Amazon S3
+Home-page: UNKNOWN
+Author: Naren Arya
+Author-email: narenarya@live.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: POSIX :: Linux

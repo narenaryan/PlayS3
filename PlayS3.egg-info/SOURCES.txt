@@ -1,0 +1,8 @@
+setup.py
+PlayS3/__init__.py
+PlayS3.egg-info/PKG-INFO
+PlayS3.egg-info/SOURCES.txt
+PlayS3.egg-info/dependency_links.txt
+PlayS3.egg-info/not-zip-safe
+PlayS3.egg-info/requires.txt
+PlayS3.egg-info/top_level.txt
