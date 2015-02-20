@@ -87,7 +87,7 @@ class S3Account:
 			k.set_contents_from_filename(value)
 
 	#For uploading large files.chose Chunked uploading.Default chunk size is 50MB.
-	def uploadChunk(self,name,path,chunk_size=52428800):
+	def uploadChunk(self,bucket_name,path,chunk_size=52428800):
 		bucket=self.conn.get_bucket(bucket_name,validate=False)
 		source_path=path
 		source_size=os.stat(source_path).st_size
